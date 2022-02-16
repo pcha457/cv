@@ -1,0 +1,71 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Akaya Telivigala', cursive;
+  font-size: 1.5em;
+}
+
+h1{
+  font-size: 5rem;
+  margin: 0 auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  color: #3A6351;
+}
+
+h2{
+  color: #3A6351;
+  font-family: 'Akaya Telivigala', cursive;
+  font-weight: normal;
+}
+
+h3 {
+color: #E48257;
+font-family: 'Akaya Telivigala', cursive;
+margin-bottom: 0 auto;
+line-height: 0;
+}
+
+.top-container{
+  background-color: #F2EDD7;
+  position: relative;
+  padding-top: 150px;
+}
+
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code{
+  width: 25%;
+  float: left;
+  margin: 0 30px 100px auto;
+  margin-bottom: 100px;
+}
+
+.running{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.profile{
+  width: 25%;
+  margin: 100px auto 100px auto;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom:300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 330px;
+  top:50px;
+}
