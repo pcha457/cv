@@ -3,7 +3,7 @@ body{
   color: #798777;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.25em;
+  font-size: 1em;
 }
 
 h1{
@@ -31,14 +31,14 @@ h3 {
 
 p{
   line-height: 2;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 hr{
   border: dotted #F8EDE3 6px;
   border-bottom: none;
   width: 4%;
-  margin: 80px auto;
+  margin: 100px auto;
 }
 
 a{
@@ -133,7 +133,7 @@ a{
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-  margin: 40px auto 60px;  
+  margin: 40px auto 60px;
 }
 
 .btn:hover {
